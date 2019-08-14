@@ -1,0 +1,109 @@
+#google {
+	position: absolute;
+	left: 500px;
+	top: 190px;
+	}
+
+#logo {
+	height:130px;
+	width: 310px;
+}
+
+.searchbar {
+	width: 600px;
+	height: 40px;
+}
+
+.search {
+	position: absolute;
+	left: 360px;
+	top: 325px;
+}
+
+#gsearch {
+	position: absolute;
+	left: 150px;
+	top: 60px;
+	width: 150px;
+	height: 35px;
+	opacity: 0.5;
+}
+
+#ifl {
+	position: absolute;
+	left: 315px;
+	top: 60px;
+	width: 150px;
+	height: 35px;
+	opacity: 0.5;
+}
+
+input[type=submit] {
+	font-family: Arial;
+	font-size: 16px;
+	text-align: center;
+	color: black;
+	background-color: light-gray;
+}
+
+input[type=text] {
+	border-radius: 40px;
+}
+
+.text {
+	font-size: 12px;
+	position: absolute;
+	top: 450px;
+	left: 575px;	
+}
+
+ul {
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+	width: 100%;
+	background-color: #333;
+}
+
+li {
+  	display: inline;
+	width: 50px;
+}
+
+
+header li a  {
+  	color: #666;
+  	padding: 15px 10px;
+  	text-decoration: none;
+	float: right;
+	font-size: 12px;
+	color: black;
+}
+
+#dots { 
+	height: 25px;
+	width: 25px;
+}
+
+footer .country {
+	position: relative;
+	top: 550px;
+	padding-left: 20px;
+}
+
+footer li a {
+	color: #666;
+  	padding: 15px 3px;
+  	text-decoration: none;
+	position: relative;
+	float: left;
+	font-size: 14px;
+	color: black;
+	top: 2px;
+	display: block;
+}
+
+footer ul {
+	border: .5px solid #e7e7e7;
+ 	background-color: #f3f3f3;
+}
